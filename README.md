@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Senai
+- 🔭 I’m currently studing at Senai
 - 🌱 I’m currently learning Software development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with software development
